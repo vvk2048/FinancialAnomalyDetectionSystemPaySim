@@ -12,7 +12,7 @@ Fraudulent financial activity is on the rise, particularly in mobile banking and
 - Sophisticated, often stealthy fraud behaviors
 - Lack of contextual and behavioral intelligence in legacy systems
 
-This project aims to build a **scalable anomaly detection pipeline** that helps accounting firms like **MBE CPAs** automatically flag suspicious transactions **uploaded by clients via their mobile app**, reducing manual review time and increasing trust.
+This project aims to build a **scalable anomaly detection pipeline** that helps accounting firms automatically flag suspicious transactions **uploaded by clients via their mobile app**, reducing manual review time and increasing trust.
 
 ---
 
@@ -134,7 +134,7 @@ financial-anomaly-detection-paysim/
 
 ## 👨‍💼 Built For
 
-This project is designed for **accounting and finance professionals**, particularly teams at MBE CPAs and similar firms, to **automate the review of uploaded financial records** using AI.
+This project is designed for **accounting and finance professionals to **automate the review of uploaded financial records** using AI.
 
 ---
 
