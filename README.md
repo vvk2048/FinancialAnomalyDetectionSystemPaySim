@@ -46,8 +46,7 @@ Here are the most impactful plots included in this project:
 ### 📌 1. Class Imbalance  
 > Shows how rare fraud is — only 0.13% of the data.
 
-![class_distribution](<img width="524" alt="image" src="https://github.com/user-attachments/assets/70525b6c-0f18-4ecd-88a5-9dc9376b4ebc" />
-)
+![class_distribution](images/class_distribution.png)
 
 ---
 
